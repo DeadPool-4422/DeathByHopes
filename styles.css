@@ -38,15 +38,32 @@ main {
 }
 
 /* Footer styles */
+
 footer {
     text-align: center;
     padding: 20px 0;
-    background: #333;
+    background: #333; /* Assuming you want to keep the footer background dark */
     color: #fff;
     position: relative;
     bottom: 0;
     width: 100%;
 }
+
+footer a {
+    color: #4c9aff; /* This color stands out against the dark background */
+    background-color: rgba(255, 255, 255, 0.2); /* Slight highlight effect */
+    padding: 2px 6px; /* Some padding around the link */
+    border-radius: 4px; /* Optional: rounded corners for the highlight */
+    text-decoration: none; /* No underline */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+footer a:hover, footer a:focus {
+    background-color: rgba(255, 255, 255, 0.3); /* Slight change on hover/focus */
+    color: #ffffff; /* Text color change for high contrast on hover/focus */
+    text-decoration: underline; /* Underline on hover/focus for traditional link appearance */
+}
+
 
 /* Style for college entry container */
 .college-entry {
