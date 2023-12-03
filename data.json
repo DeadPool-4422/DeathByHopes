@@ -33,12 +33,15 @@
         "students": [
             {
                 "name": "Shreshtha Chopkar",
-                "note": "Moye Moye"
+                "note": "She ate Mess Food"
             },
             {
                 "name": "Airish Maglani",
                 "note": "Was told he was not Good Enough Indirectly"
-            }
+            },
+            {
+                "name": "Sarthak Thakur"
+                "note": "Wajaj sir rejected his project"
         ]
     }
 ]
