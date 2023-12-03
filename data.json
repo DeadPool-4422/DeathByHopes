@@ -1,0 +1,45 @@
+[
+    {
+        "college": "XYZ University",
+        "deaths": 3,
+        "students": [
+            {
+                "name": "John Doe",
+                "note": "A talented student who struggled with academic pressure."
+            },
+            {
+                "name": "Alice Johnson",
+                "note": "Faced overwhelming stress from coursework."
+            }
+        ]
+    },
+    {
+        "college": "ABC College",
+        "deaths": 2,
+        "students": [
+            {
+                "name": "John Doe",
+                "note": "A talented student who struggled with academic pressure."
+            },
+            {
+                "name": "Alice Johnson",
+                "note": "Faced overwhelming stress from coursework."
+            }
+        ]
+    },
+    {
+        "college": "Ajeenkya D Y Patil",
+        "deaths": 2,
+        "students": [
+            {
+                "name": "Shreshtha Chopkar",
+                "note": "Moye Moye"
+            },
+            {
+                "name": "Airish Maglani",
+                "note": "Was told he was not Good Enough Indirectly"
+            }
+        ]
+    }
+]
+
