@@ -1,7 +1,7 @@
 [
     {
         "college": "XYZ University",
-        "deaths": 3,
+        "deaths": 2,
         "students": [
             {
                 "name": "John Doe",
@@ -29,7 +29,7 @@
     },
     {
         "college": "Ajeenkya D Y Patil",
-        "deaths": 2,
+        "deaths": ,
         "students": [
             {
                 "name": "Shreshtha Chopkar",
@@ -45,27 +45,31 @@
             },
             {
                 "name": "Arjun Babu",
-                "note": "was kicked out of SOD and proceeded to rise to power as a notorious dick-tator. his reign ended when he killed himself out of remorse about the 1000s of sons he killed."
+                "note": "was kicked out of SOD and proceeded to rise to power as a notorious dick-tator. his reign ended when he killed himself out of remorse about the 1000s of children he killed everyday."
             },
             {
-                "name": "Jayash",
-                "note": "Died after the Lizard left him"
+                "name": "Jayash Naphade",
+                "note": "Commited Suicide after the Lizard left him (Maharashtrian)"
             },
             {
                 "name": "Radhika",
                 "note": "Sharma ji ke bete ne haa krdiya."
             },
             {
-                "name": "Nidhi",
+                "name": "Nidhi Chopda",
                 "note": "laude bol diya."
             },
-                        {
-                "name": "Ebenezer",
+            {
+                "name": "Ebenezer Thomas",
                 "note": "Existence was not acknowledged ( Attendance )"
-                        },
-                        {
-                "name": "Priyanshu",
+            },
+            {
+                "name": "Priyanshu K Sharma",
                 "note": "CGPA Kam Ho Gaya"
+            },
+            {
+                "name": "Rohit Mahato",
+                "note": "Realized he was a failure after gaining some maturity and decided to suicided"
             }
         ]
     }
