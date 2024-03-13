@@ -29,7 +29,7 @@
     },
     {
         "college": "Ajeenkya D Y Patil",
-        "deaths": ,
+        "deaths": 10,
         "students": [
             {
                 "name": "Shreshtha Chopkar",
@@ -61,15 +61,15 @@
             },
             {
                 "name": "Ebenezer Thomas",
-                "note": "Existence was not acknowledged ( Attendance )"
+                "note": "Existence was not acknowledged ( Attendance )."
             },
             {
                 "name": "Priyanshu K Sharma",
-                "note": "CGPA Kam Ho Gaya"
+                "note": "CGPA Kam Ho Gaya."
             },
             {
                 "name": "Rohit Mahato",
-                "note": "Realized he was a failure after gaining some maturity and decided to suicided"
+                "note": "Realized he was a failure after gaining some maturity and decided to suicided."
             }
         ]
     }
